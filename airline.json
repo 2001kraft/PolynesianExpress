@@ -36,7 +36,7 @@
                     "texture": [
                         "/models/aircraft/premium/737_700/normal.jpg",
                         "/models/aircraft/premium/737_700/specular.jpg",
-                        "https://github.com/2001kraft/PolynesianExpress/blob/main/POLYNESIAN-B737-700-v1b.png"
+                        "https://raw.githubusercontent.com/2001kraft/PolynesianExpress/refs/heads/main/POLYNESIAN-B737-700-v1b.png"
                     ],
                     "credits": "2001kraft"
                 }
