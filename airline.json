@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Polynesian Express",
+    "color": "#3C071B",
+    "bgcolor": "white",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,6 +31,15 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "Polynesian",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/normal.jpg",
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/pqxDvh4/POLYNESIAN-B737-700.png"
+                    ],
+                    "credits": "2001kraft"
+                }
             ],
             "labels": [
                 "Normal map",
