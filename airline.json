@@ -411,6 +411,15 @@
         "3341": {
             "name": "Embraer ERJ 170",
             "liveries": [
+                {
+                    "name": "Polynesian",
+                    "texture": [
+                        "https://raw.githubusercontent.com/2001kraft/PolynesianExpress/refs/heads/main/POLYNESIAN-E170-FUSELAGE.png",
+                        "https://raw.githubusercontent.com/2001kraft/PolynesianExpress/refs/heads/main/POLYNESIAN-E170-WINGS.png",
+                        "https://raw.githubusercontent.com/2001kraft/PolynesianExpress/refs/heads/main/POLYNESIAN-E170-ENGINES.png"
+                    ],
+                    "credits": "2001kraft"
+                }
             ],
             "labels": [
                 "Fuselage texture",
