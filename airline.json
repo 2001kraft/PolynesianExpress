@@ -319,6 +319,13 @@
         "3180": {
             "name": "Boeing b787-10",
             "liveries": [
+                {
+                    "name": "Polynesian",
+                    "texture": [
+                        "https://raw.githubusercontent.com/2001kraft/PolynesianExpress/refs/heads/main/POLYNESIAN-B787-10.png"
+                    ],
+                    "credits": "2001kraft"
+                }
             ],
             "labels": [
                 "Texture"
